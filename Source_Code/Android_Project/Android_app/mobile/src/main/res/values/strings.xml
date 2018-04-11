@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CS 256 Heart Disease Risk Detection</string>
+    <string name="user_value">User\'s current state will be loaded here</string>
+</resources>

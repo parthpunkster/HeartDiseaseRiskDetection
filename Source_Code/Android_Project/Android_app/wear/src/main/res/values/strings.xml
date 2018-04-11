@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CS 256 Heart Disease Risk Detection</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="firebase_btn">Hello_World</string>
+    <string name="smoke_prompt">Smoking Habits</string>
+    <string name="Text_fld_name">Enter your name</string>
+    <string-array name="smoking_value">
+        <item>I smoke</item>
+        <item>I do not smoke</item>
+    </string-array>
+    <string-array name="Diabetes_family_history">
+        <item>Yes, I have a diabetic family history </item>
+        <item>No, I do not have a diabetic family history</item>
+    </string-array>
+</resources>
